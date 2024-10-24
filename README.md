@@ -1,6 +1,6 @@
 # 10/11/2024
 
-## 1.1
+## v1.1
 - Added "Septimo" Pup Skin
   - Unlocked with 3000 Pets or more
 - Added Screenshot Feature (press 0 on PC)
@@ -21,7 +21,7 @@
 
 # 9/22/2024
 
-## 1.0.2
+## v1.0.2
 - Added Random Chance (10%) for Main Menu pupet to change animation
 - Added Unlocking Conditions for the other Pet skins
   - White skin Unlocked with 200 Pets or more
@@ -41,7 +41,7 @@
 
 # 9/20/24
 
-## 1.0.1
+## v1.0.1
 - Fixed Overlaping Music Tracks
 - Fixed Shop Buttons not Abiding its click and level limitations
 - Fixed Pup Selector not leaving if you didn't have certain conditions checked
@@ -51,7 +51,7 @@
 
 - Added Main Menu Pup (uses OPARS)
 
-## 1.0
+## v1.0
 - Added 20 more random splash texts
 - Added JSON Save File Length Check to make sure you can't just load a random JSO  and corrupt shit
 - Added Pup skin Buffs and Debuffs (Affects any and all automatic counters)
