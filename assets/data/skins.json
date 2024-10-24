@@ -2,27 +2,27 @@
   "brown": {
     "positiveOffset": 0,
     "negativeOffset": 0,
-    "cosmetics": ["halloween", "sheriff"]
+    "cosmetics": ["halloween"]
   },
   "white": {
     "positiveOffset": 0,
     "negativeOffset": 2,
-    "cosmetics": ["halloween", "farmer"]
+    "cosmetics": ["halloween"]
   },
   "spot": {
     "positiveOffset": 2,
     "negativeOffset": 0,
-    "cosmetics": ["halloween", "white"]
+    "cosmetics": ["halloween"]
   },
   "bud": {
     "positiveOffset": 2,
     "negativeOffset": 5,
-    "cosmetics": ["halloween", "suit"]
+    "cosmetics": ["halloween"]
   },
   "cap": {
     "positiveOffset": 4,
     "negativeOffset": 0,
-    "cosmetics": ["halloween", "prince"]
+    "cosmetics": ["halloween"]
   },
   "bull": {
     "positiveOffset": 0,
@@ -32,6 +32,6 @@
   "septimo": {
     "positiveOffset": 0,
     "negativeOffset": 10,
-    "cosmetics": ["halloween", "queen"]
+    "cosmetics": ["halloween"]
   }
 }
